@@ -1,0 +1,15 @@
+{
+  "name": "zen_livejournal_migrate",
+  "version": "1.0.0",
+  "description": "Migrate your posts from Livejournal to Yandex.Zen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Pisanko",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^3.10.0",
+    "puppeteer": "^0.13.0"
+  }
+}

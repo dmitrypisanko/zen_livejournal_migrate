@@ -1,0 +1,4 @@
+./node_modules
+./config.test.yml
+./last_id.test.txt
+./.idea

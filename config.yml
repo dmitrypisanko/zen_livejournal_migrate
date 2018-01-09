@@ -1,0 +1,10 @@
+zen:
+  id: YOUR_ID
+  username: YOUR_USERNAME
+  password: YOUR_PASSWORD
+  upload_idle: 10000
+  captcha_idle: 15000
+livejournal:
+  user: YOUR_NICK
+  date_start: 2010-01
+  date_end: 2022-01
