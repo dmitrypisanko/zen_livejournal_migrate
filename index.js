@@ -64,7 +64,7 @@ async function main(config) {
     endMonth = parseInt(endMonth);
 
     for(let year=startYear;year<=endYear;year++) {
-        for(let month=startMonth;month<=endMonth;month++) {
+        for(let month=startMonth;month<=12;month++) {
             await page2.bringToFront();
 
             const nick = config.livejournal.user.replace(/_/g, '-');
